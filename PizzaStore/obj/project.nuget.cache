@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ld5I+CfuEKCj4GDPJdWPTRUIJbNmIGsv/52FWeRfKb/sb43ZVfWRtyxPbeTIbkp6d7Sznv0pijn8mg++mQLxHA==",
+  "dgSpecHash": "bpMPwQXOCo2BQU5cqu8EJnmSCxtYNHvaZKYO/gQfZz2+5Gs7JxwIUWSGX2jJAB10enSy7rs8KWAOk8QOzjWrfA==",
   "success": true,
-  "projectFilePath": "D:\\202404\\minapi\\PizzaStore\\PizzaStore.csproj",
+  "projectFilePath": "D:\\202404\\dotnet-minimal-api\\PizzaStore\\PizzaStore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\valtech\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\valtech\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

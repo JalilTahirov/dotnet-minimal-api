@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\202404\\minapi\\PizzaStore\\PizzaStore.csproj": {}
+    "D:\\202404\\dotnet-minimal-api\\PizzaStore\\PizzaStore.csproj": {}
   },
   "projects": {
-    "D:\\202404\\minapi\\PizzaStore\\PizzaStore.csproj": {
+    "D:\\202404\\dotnet-minimal-api\\PizzaStore\\PizzaStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\202404\\minapi\\PizzaStore\\PizzaStore.csproj",
+        "projectUniqueName": "D:\\202404\\dotnet-minimal-api\\PizzaStore\\PizzaStore.csproj",
         "projectName": "PizzaStore",
-        "projectPath": "D:\\202404\\minapi\\PizzaStore\\PizzaStore.csproj",
+        "projectPath": "D:\\202404\\dotnet-minimal-api\\PizzaStore\\PizzaStore.csproj",
         "packagesPath": "C:\\Users\\valtech\\.nuget\\packages\\",
-        "outputPath": "D:\\202404\\minapi\\PizzaStore\\obj\\",
+        "outputPath": "D:\\202404\\dotnet-minimal-api\\PizzaStore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\valtech\\AppData\\Roaming\\NuGet\\NuGet.Config",
